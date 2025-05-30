@@ -184622,7 +184622,7 @@
                "symbol": "NRWA",
                "name": "Nova Trade Real-World Assets",
                "decimals": 8,
-               "logoURI": "https://github.com/efderfee456416hgvrtf4/token-list/blob/6r49qKuPcsw1YWpCzAsuhfQUh8GWAHGLAWx2cxaepSEU/assets/mainnet/6r49qKuPcsw1YWpCzAsuhfQUh8GWAHGLAWx2cxaepSEU/logo.png",
+               "logoURI": "https://raw.githubusercontent.com/efderfee456416hgvrtf4/token-list/refs/heads/6r49qKuPcsw1YWpCzAsuhfQUh8GWAHGLAWx2cxaepSEU/assets/mainnet/6r49qKuPcsw1YWpCzAsuhfQUh8GWAHGLAWx2cxaepSEU/logo.png",
                "tags": [
                     "RWA",
                     "DEX",
@@ -184633,8 +184633,7 @@
                "extensions": {
                     "website": "https://novatrade.co/",
                     "twitter": "https://x.com/dnovatrade?s=21",
-                    "telegram": "https://t.me/DNovaTrade",
-                    "github": "https://github.com/efderfee456416hgvrtf4/token-list"
+                    "telegram": "https://t.me/DNovaTrade"
                }
           }
      ],
